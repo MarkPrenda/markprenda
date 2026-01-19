@@ -46,8 +46,7 @@ Here are some ideas to get you started:
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=markPrenda&layout=compact&bg_color=0F031F&border_color=6A10DD&title_color=10C4DD&text_color=C398F9)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
 <a href="https://app.daily.dev/markp618"><img src="https://api.daily.dev/devcards/v2/0Jfd33dWE.png?r=tyw" width="356" alt="Mark's Dev Card"/></a>
 
 ## GitHub Stats
