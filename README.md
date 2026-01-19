@@ -44,10 +44,12 @@ Here are some ideas to get you started:
 ![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
+## Daily
+<a href="https://app.daily.dev/markp618"><img src="https://api.daily.dev/devcards/v2/0Jfd33dWE.png?r=tyw" width="356" alt="Mark's Dev Card"/></a>
+
 ## Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
-<a href="https://app.daily.dev/markp618"><img src="https://api.daily.dev/devcards/v2/0Jfd33dWE.png?r=tyw" width="356" alt="Mark's Dev Card"/></a>
 
 ## GitHub Stats
 
