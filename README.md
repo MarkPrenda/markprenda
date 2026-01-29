@@ -47,18 +47,5 @@ Here are some ideas to get you started:
 ## Daily
 <a href="https://app.daily.dev/markp618"><img src="https://api.daily.dev/devcards/v2/0Jfd33dWE.png?r=tyw" width="356" alt="Mark's Dev Card"/></a>
 
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markPrenda&theme=transparent&bg_color=0F031F&border_color=6A10DD&show_icons=true&icon_color=6A10DD&title_color=10C4DD&text_color=C398F9)
-
-
-
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-
 
 
