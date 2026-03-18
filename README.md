@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ## Stay Close 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-prenda-43558254/)
-[![Github](https://img.shields.io/badge/github-(https://www.linkedin.com/in/marcelo-prenda-43558254/)-blue?logo=github)
-
+[[![Github](https://img.shields.io/badge/github-(https://www.linkedin.com/in/marcelo-prenda-43558254/)-blue?logo=github)
+](https://img.shields.io/badge/LinkedIn-marcelo--prenda-0f172a?logo=linkedin&logoColor=white&labelColor=0077B5)
 💬 Feel free to send me a message
 
 ## Skills
