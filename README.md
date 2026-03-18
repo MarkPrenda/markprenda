@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-eimert/)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandra-Eimert-0f172a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0057B5&cacheSeconds=1)](https://www.linkedin.com/in/sandra-eimert/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcelo--prenda-0f172a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ff0000&cacheSeconds=1)](https://www.linkedin.com/in/marcelo-prenda-43558254/)
 
 
 💬 Feel free to send me a message
