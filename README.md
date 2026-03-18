@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcelo--prenda-0f172a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&cacheSeconds=1)](https://www.linkedin.com/in/marcelo-prenda-43558254/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sandra--eimert-0f172a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ff0000&cacheSeconds=1)](https://www.linkedin.com/in/sandra-eimert/)
+
 
 💬 Feel free to send me a message
 
