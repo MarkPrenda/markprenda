@@ -18,20 +18,8 @@ Here are some ideas to get you started:
 
 
 ## Stay Close 
-<a href="https://github.com/MarkPrenda">
-  <span style="display: inline-flex; align-items: center; border-radius: 8px; overflow: hidden;">
-    
-    <span style="background:#181717;padding:8px 10px;">
-      <img src="https://cdn.simpleicons.org/github/white" width="20"/>
-    </span>
-    
-    <span style="background:#e2e8f0;color:#0f172a;padding:8px 12px;font-weight:600;">
-      MarkPrenda
-    </span>
 
-  </span>
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-eimert/)
 
 
 💬 Feel free to send me a message
