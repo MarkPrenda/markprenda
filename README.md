@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 
 ## Stay Close 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-eimert/)
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcelo--prenda-0f172a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&cacheSeconds=1)](https://www.linkedin.com/in/marcelo-prenda-43558254/)
-
 [![Github](https://img.shields.io/badge/GitHub-marcelo--prenda-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=5700b5&cacheSeconds=1)](https://www.github.com/markprenda/)
 
 
