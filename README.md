@@ -18,46 +18,20 @@ Here are some ideas to get you started:
 
 
 ## Stay Close 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-prenda-43558254/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/marcelo-prenda-43558254/](https://img.shields.io/badge/LinkedIn-marcelo--prenda-0f172a?logo=linkedin&logoColor=white&labelColor=0077B5))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcelo--prenda-0f172a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/marcelo-prenda-43558254/)
-
-<a href="https://www.linkedin.com/in/marcelo-prenda-43558254/" target="_blank">
-  <div style="
-    display: inline-flex;
-    align-items: center;
-    border-radius: 8px;
-    overflow: hidden;
-    font-family: sans-serif;
-    text-decoration: none;
-  ">
+<a href="https://github.com/MarkPrenda">
+  <span style="display: inline-flex; align-items: center; border-radius: 8px; overflow: hidden;">
     
-    <!-- Fundo azul com logo -->
-    <div style="
-      background-color: #0077B5;
-      padding: 8px 10px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    ">
-      <img src="https://cdn.simpleicons.org/linkedin/white"
-           width="20"
-           height="20" />
-    </div>
+    <span style="background:#181717;padding:8px 10px;">
+      <img src="https://cdn.simpleicons.org/github/white" width="20"/>
+    </span>
+    
+    <span style="background:#e2e8f0;color:#0f172a;padding:8px 12px;font-weight:600;">
+      MarkPrenda
+    </span>
 
-    <!-- Texto -->
-    <div style="
-      background-color: rgba(15, 23, 42, 0.2);
-      color: #0f172a;
-      padding: 8px 12px;
-      font-weight: 600;
-    ">
-      marcelo-prenda
-    </div>
-
-  </div>
+  </span>
 </a>
+
 
 
 💬 Feel free to send me a message
